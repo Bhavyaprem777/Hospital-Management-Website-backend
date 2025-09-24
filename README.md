@@ -44,3 +44,5 @@ node server.js          # Hospitals API (Port 5500)
 node appointment-details.js    # Appointments API (Port 5001)
 node health-campaign-data-backend.js       # Health Campaigns API (Port 5002)
 node vaccine-form-data-backend.js     # Vaccination API (Port 5000)
+5. Live Demo (ONLY FRONTEND): https://hospital-management-website-kappa.vercel.app/
+6.Video Demo: https://drive.google.com/file/d/1aTgXhJ2HGoeytixuiXCwQVlJ_aGggOV7/view
