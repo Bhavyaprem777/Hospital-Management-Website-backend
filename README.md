@@ -31,7 +31,7 @@ The system is modular, split into 4 micro-APIs: Hospitals, Appointments, Health 
 ## 🔧 Setup
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/hospital-management-backend.git
+   git clone https://github.com/Bhavyaprem777/hospital-management-website-backend.git
    cd hospital-management-backend
 2.Install dependencies
 npm install
